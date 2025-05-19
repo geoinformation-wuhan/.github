@@ -17,7 +17,9 @@
 
 ### 📖欢迎参与
 我们非常欢迎大家加入我们的校内社群：CUG-Geoinformation
-![CUG-Geoinformation](../images/group.jpg)
+<h3 align="center">
+	<img src="../images/group.jpg" width="200" alt="Logo"/><br/>
+</h3>
 
 如果你有可供分享的资料，可以直接上传至地大WPS网盘；如果对项目有疑问，可以通过创建 Issue 的方式提出。
 
