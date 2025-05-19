@@ -1,3 +1,3 @@
-# HITSZ-OpenAuto/.github
+# CUG-Open3S/.github
 
-Public profile of HITSZ OpenAuto.
+Public profile of CUG-Open3S
