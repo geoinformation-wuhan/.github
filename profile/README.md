@@ -14,6 +14,8 @@
 
 - [CUG-Open3S资料库](https://wpsplus.com/join/gluqsao?invtoken=aGFvbG9uZy1QQzIwMjI=): 地信学院的学业资料库，包含课程课件、实习材料、参考书等，需要校内账号访问
 
+- [Awesome-RSEDU](https://github.com/geoinformation-wuhan/awesome-rsedu)：我们整理的遥感科学与技术相关的公开学习资源
+
 
 ### 📖欢迎参与
 我们非常欢迎大家加入我们的校内社群：CUG-Geoinformation
